@@ -12,7 +12,7 @@ export class Hero {
     }
   }
 
-  let hero = new Hero('krunal');
+  let hero = new Hero('JUAL AHMED');
   console.log(hero.myName());
   console.log(hero.myName());
   console.log(hero.myName());
